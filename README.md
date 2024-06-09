@@ -1,7 +1,8 @@
 # Hands-on Lab: React Application
 
 ```
-Practice Exercise to set the props from outside and maintain the state of the component inside. The state we will maintain is the number of times the button is clicked.
+Practice Exercise to set the props from outside and maintain the state of the component inside.
+The state we will maintain is the number of times the button is clicked.
 
 Learning Objectives:
 
